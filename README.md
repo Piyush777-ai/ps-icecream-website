@@ -1,2 +1,29 @@
-# ps-icecream-website
-A responsive and attractive Ice Cream Website built using HTML, CSS, and JavaScript. This project showcases a modern UI design for an ice cream shop with smooth layout and user-friendly interface.
+# 🍦 Ice Cream Website
+
+A modern and responsive Ice Cream Website built using HTML, CSS, and JavaScript.  
+This project showcases a clean and attractive design for an ice cream shop with smooth user experience.
+
+---
+
+## 🚀 Live Demo
+🔗 https://ps-icecream-website.netlify.app
+
+---
+
+## ✨ Features
+- 🍨 Beautiful and eye-catching UI design  
+- 📱 Fully responsive (Mobile + Desktop)  
+- 🎨 Stylish layout with smooth CSS effects  
+- ⚡ Fast and lightweight performance  
+- 🖼️ Product showcase / gallery section  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📂 Project Structure
