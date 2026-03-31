@@ -25,4 +25,4 @@ This project showcases a clean and attractive design for an ice cream shop with 
 - JavaScript  
 
 ---
-![preview img](https://github.com/piyush-soni777/ps-icecream-website/commit/e2e4ee0f034662d5ed016f54db66db4820dc666c#diff-39339d6b50820252d17a146678237e7ac6eeeda11124f10f1e0b4fe8332ffb49)
+
