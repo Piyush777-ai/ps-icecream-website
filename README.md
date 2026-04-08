@@ -2,7 +2,7 @@
 
 A modern and responsive Ice Cream Website built using HTML, CSS, and JavaScript.  
 This project showcases a clean and attractive design for an ice cream shop with smooth user experience.
-
+ 
 ---
 
 ## 🚀 Live Demo
