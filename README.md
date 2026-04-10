@@ -20,7 +20,7 @@ This project showcases a clean and attractive design for an ice cream shop with 
 - 🍨 Beautiful and eye-catching UI design  
 - 📱 Fully responsive (Mobile + Desktop)  
 - 🎨 Stylish layout with smooth CSS effects  
-- ⚡ Fast and lightweight performance  
+- ⚡ Fast and lightweight performance.  
 - 🖼️ Product showcase / gallery section  
 
 ---
